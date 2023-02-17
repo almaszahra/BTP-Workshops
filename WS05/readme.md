@@ -1,5 +1,5 @@
 # Workshop #5: Member and Helper operators
-V 0.9 (due date moved one day back to give students a chance to celebrate thanksgiving day )
+
 ## Learning Outcomes
 
 Upon successful completion of this workshop, you will have demonstrated the abilities to:
