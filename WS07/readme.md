@@ -233,7 +233,7 @@ Class Fish does not need to introduce any new attributes;  however, you will nee
 
 * Costructor (...)
 
-   Accepts the name of the pet, and an optional parameter for initial age (defaulting to 0 days).  The constructor should invoke the base class constructor passing in the incremental cost (COST_BASE) to create a fish as the 3rd parameter of the pet constructor.
+   Accepts the name of the pet, and an optional parameter for initial age (defaulting to 0 days).  The constructor should invoke the base class constructor passing 0 to create a fish as the 3rd parameter of the pet constructor.
 
 * feed()
 
